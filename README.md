@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m a **Computer Engineering student** passionate about 
 - 🌱 I’m currently learning **web development**, **databases**, and **object-oriented programming**.  
 - 🔭 I’m working on building interactive projects and honing my problem-solving skills.  
 - 💬 Feel free to ask me about **Java, Python, C++**, or any of my projects.  
-- 📫 You can reach me at: [your email or LinkedIn link here]  
+- 📫 You can reach me at: tnkmunich@gmail.com
 
 ---
 
