@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-Welcome to my GitHub! I’m a **Computer Engineering student** passionate about programming, web development, and exploring the intersection of technology and linguistics.  
+Welcome to my GitHub! I’m a **Computer Engineering student** from **Chulalongkorn University** passionate about programming, web development, and exploring the intersection of technology and linguistics.  
 
 ---
 
